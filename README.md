@@ -38,6 +38,6 @@ I'm always open to discussing new projects or opportunities. Feel free to reach 
 
 ## 📊 GitHub Stats
 
-[![Jayesh Vijay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)](https://github.com/JAYESH-VIJAY)
+[![Jayesh Vijay's GitHub Stats](https://github.com/JAYESH-VIJAY)
 
 Thanks for visiting my GitHub profile! 😄
